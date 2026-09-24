@@ -1,1 +1,1 @@
-# .github
+A space for tools that are meant to work well on their own, and even better together. Not a collection of unrelated repositories under one name, but pieces built with each other in mind — where using one makes the next one feel familiar.
